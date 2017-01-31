@@ -58,3 +58,11 @@ html {
 h1{
   text-align: center;
 }
+
+div {
+  transition: height .25s ease;
+}
+
+.animation {
+  height: 200%;
+}
